@@ -1,0 +1,7 @@
+[package]
+name = "nuclear_option"
+version = "0.1.0"
+
+[dependencies]
+hyper = "0.10.9"
+
